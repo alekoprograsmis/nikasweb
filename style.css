@@ -1,0 +1,70 @@
+body{
+   
+    background-image:url(https://wallpapers.com/images/hd/4k-bmw-4-series-x44p1lte1sjdpod1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:600px;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+}
+.big{
+    width: 400px;
+    height:550px;
+    background-color:orange;
+    border: 3px solid white;
+    border-radius: 10px;
+    opacity: 0.7;
+}
+.txt1{
+    margin-left: 150px;
+}
+  
+.email{
+    background-color: white;
+    color:black;
+    font-size: 20px;
+    width:300px;
+    height:50px;
+    border-radius: 10px;
+    border: 10px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.txt2{
+    margin-top: -100px;
+    margin-left: 150px;
+}
+.pas{
+    background-color: white;
+    color:black;
+    font-size: 20px;
+    width: 300px;
+    height: 50px;
+    border-radius: 10px;
+    margin-top: 150px;
+    margin-left: 50px;
+}
+.txt3{
+    margin-left:100px;
+    margin-top:-100px;
+}
+a{
+    text-decoration: none;
+}
+button{
+    width: 100px;
+    height: 50px;
+    color: red;
+    background-color: black;
+    border-radius: 10px;
+    border:3px solid white;
+    margin-top:70px;
+    margin-left: 140px;
+    transition: 1.5s;
+}
+button:hover{
+    background-color: red;
+    color:white;
+}
